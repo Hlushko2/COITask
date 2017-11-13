@@ -1,0 +1,8 @@
+F:\COI\Client\Client\bin\Debug\Client.exe.config
+F:\COI\Client\Client\bin\Debug\Client.exe
+F:\COI\Client\Client\bin\Debug\Client.pdb
+F:\COI\Client\Client\bin\Debug\PMC_DataModel.dll
+F:\COI\Client\Client\bin\Debug\PMC_DataModel.pdb
+F:\COI\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\COI\Client\Client\obj\Debug\Client.exe
+F:\COI\Client\Client\obj\Debug\Client.pdb

@@ -1,0 +1,8 @@
+F:\COI\UnitTestDataModel\UnitTestDataModel\bin\Debug\UnitTestDataModel.dll
+F:\COI\UnitTestDataModel\UnitTestDataModel\bin\Debug\UnitTestDataModel.pdb
+F:\COI\UnitTestDataModel\UnitTestDataModel\bin\Debug\nunit.framework.dll
+F:\COI\UnitTestDataModel\UnitTestDataModel\bin\Debug\PMC_DataModel.dll
+F:\COI\UnitTestDataModel\UnitTestDataModel\bin\Debug\nunit.framework.xml
+F:\COI\UnitTestDataModel\UnitTestDataModel\bin\Debug\PMC_DataModel.pdb
+F:\COI\UnitTestDataModel\UnitTestDataModel\obj\Debug\UnitTestDataModel.dll
+F:\COI\UnitTestDataModel\UnitTestDataModel\obj\Debug\UnitTestDataModel.pdb
